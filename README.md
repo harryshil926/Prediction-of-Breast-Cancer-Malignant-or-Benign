@@ -6,4 +6,4 @@ The dataset has been taken from the UCI Machine Learning Repository:
 https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 
 
-<b> Note : Please check the Jupyter notebook to understand the entire project flow alongwith detailed explanations. <b>
+<b> Note : The Jupyter notebook explains the entire project workflow. <b>
